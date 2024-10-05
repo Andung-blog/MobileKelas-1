@@ -1,6 +1,6 @@
-# myapp
+# Tugas Mobile Kelas, Kelompok 1
 
-A new Flutter project.
+Project Flutter, To-DO-List APP
 
 ## Getting Started
 
